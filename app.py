@@ -10,7 +10,7 @@ le_target = joblib.load("le_target.pkl")
 
 st.set_page_config(page_title="Prediksi Popularitas Buku", layout="centered")
 
-st.title("📚 Prediksi Popularitas Buku")
+st.title("Prediksi Popularitas Buku")
 st.write("Masukkan informasi buku untuk memprediksi apakah buku tersebut populer atau tidak.")
 
 # Input form
